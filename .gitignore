@@ -1,0 +1,55 @@
+# --- Operating System Files ---
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS (for collaborators)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux (for collaborators)
+*~
+
+# --- Editor & IDE Directories ---
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# JetBrains (IntelliJ, PyCharm, CLion, etc.)
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.opensdf
+*.sdf
+
+# --- General Logs & Temporary Files ---
+*.log
+*.tmp
+*.bak
+*.swp
+temp/
+
+# --- General Build Outputs (Adjust based on project) ---
+dist/
+build/
+bin/
+out/
+node_modules/
+__pycache__/
+*.exe
+*.dll
+*.so
+*.dylib

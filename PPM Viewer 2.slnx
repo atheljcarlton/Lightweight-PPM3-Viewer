@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PPM Viewer 2/PPM Viewer 2.vcxproj" />
+</Solution>
